@@ -33,4 +33,5 @@ I must've some other stuff to make it hard to work with.
 All in all it took a few hours to make but it did it's job (didn't get all the text)
 
 
+still a long way out from beating github.com/y21/tl or github.com/cloudflare/lol-html
 
